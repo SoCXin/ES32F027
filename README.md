@@ -14,10 +14,10 @@
 
 #### 关键特性
 
-* LCDC(8 x 28)
-* PWM
-* RTC
-* 工作电压 2.2V ~ 5.5V
+* USB
+* ADC
+* DAC
+* 工作电压 1.85V ~ 5.5V
 
 
 ### [资源收录](https://github.com/SoCXin/ES32F027)
